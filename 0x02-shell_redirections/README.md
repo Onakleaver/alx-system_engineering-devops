@@ -22,4 +22,11 @@ Script prints out first 10 lines of /etc/passwd
 6-thirdline
 Script prints out third line of a file,iacta, by utilising pipe redirection
 head -n 3 iacta | tail -n 1
-it first gets the first 3 lines of the file then the output is redirected to tail command which outputs the last line
+it first gets the first 3 lines of the file then the output is redirected to
+tail command which outputs the last line
+
+7-file
+Script utilizes redirections and wildcards to crate script with specific words
+
+8-cwd_state
+Redirects the output of ls -la command to a specific file

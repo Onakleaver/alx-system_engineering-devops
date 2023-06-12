@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 onani onani 4096 Jun 12 20:37 .
+drwxrwxr-x 6 onani onani 4096 Jun 12 17:59 ..
+-rwxrwxr-x 1 onani onani   32 Jun 12 18:08 0-hello_world
+-rwxrwxr-x 1 onani onani   28 Jun 12 18:16 1-confused_smiley
+-rwxrwxr-x 1 onani onani   28 Jun 12 18:42 2-hellofile
+-rwxrwxr-x 1 onani onani   39 Jun 12 19:04 3-twofiles
+-rwxrwxr-x 1 onani onani   33 Jun 12 19:11 4-lastlines
+-rwxrwxr-x 1 onani onani   33 Jun 12 19:18 5-firstlines
+-rwxrwxr-x 1 onani onani   40 Jun 12 19:46 6-third_line
+-rwxrwxr-x 1 onani onani   98 Jun 12 20:04 7-file
+-rwxrwxr-x 1 onani onani   36 Jun 12 20:36 8-cwd_state
+-rw-rw-r-- 1 onani onani   12 Jun 12 20:04 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxrw-r-- 1 onani onani  176 Jun 12 19:09 klivo
+-rw-rw-r-- 1 onani onani    0 Jun 12 20:37 ls_cwd_content
+-rw-rw-r-- 1 onani onani  771 Jun 12 20:08 README.md
