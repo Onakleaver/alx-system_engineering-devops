@@ -2,3 +2,7 @@ SHELL I/O Redirections
 
 0.Hello World
 Adds script that prints out Hello, World
+
+1-confused_smiley
+Creates a script that prints a smiley face "(Ôo)'
+To do so place a '\' to make it printable "\"(Ôo)'"
