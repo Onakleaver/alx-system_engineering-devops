@@ -15,3 +15,11 @@ Craetes a script that prints out /etc/passwd and /etc/hosts
 
 4-lastlines
 Script prints out last 10 lines of /etc/passwd
+
+5-firstlines
+Script prints out first 10 lines of /etc/passwd
+
+6-thirdline
+Script prints out third line of a file,iacta, by utilising pipe redirection
+head -n 3 iacta | tail -n 1
+it first gets the first 3 lines of the file then the output is redirected to tail command which outputs the last line
