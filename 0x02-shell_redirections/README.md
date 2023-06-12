@@ -12,3 +12,6 @@ Creates script to print out /etc/passwd
 
 3-twofiles
 Craetes a script that prints out /etc/passwd and /etc/hosts
+
+4-lastlines
+Script prints out last 10 lines of /etc/passwd
