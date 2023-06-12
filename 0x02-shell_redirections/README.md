@@ -9,3 +9,6 @@ To do so place a '\' to make it printable "\"(Ôo)'"
 
 2-hellofile
 Creates script to print out /etc/passwd
+
+3-twofiles
+Craetes a script that prints out /etc/passwd and /etc/hosts
