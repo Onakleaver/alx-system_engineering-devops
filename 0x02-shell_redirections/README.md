@@ -30,3 +30,6 @@ Script utilizes redirections and wildcards to crate script with specific words
 
 8-cwd_state
 Redirects the output of ls -la command to a specific file
+
+9-duplicate_last_line
+Duplicates last line of a file by the use of ">>" redirection
